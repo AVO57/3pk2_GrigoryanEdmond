@@ -1,0 +1,15 @@
+C:\Users\Банни хоп Егоров\source\repos\GR_PZ2\GR_PZ2\bin\Debug\net6.0\GR_PZ2.exe
+C:\Users\Банни хоп Егоров\source\repos\GR_PZ2\GR_PZ2\bin\Debug\net6.0\GR_PZ2.deps.json
+C:\Users\Банни хоп Егоров\source\repos\GR_PZ2\GR_PZ2\bin\Debug\net6.0\GR_PZ2.runtimeconfig.json
+C:\Users\Банни хоп Егоров\source\repos\GR_PZ2\GR_PZ2\bin\Debug\net6.0\GR_PZ2.dll
+C:\Users\Банни хоп Егоров\source\repos\GR_PZ2\GR_PZ2\bin\Debug\net6.0\GR_PZ2.pdb
+C:\Users\Банни хоп Егоров\source\repos\GR_PZ2\GR_PZ2\obj\Debug\net6.0\GR_PZ2.csproj.AssemblyReference.cache
+C:\Users\Банни хоп Егоров\source\repos\GR_PZ2\GR_PZ2\obj\Debug\net6.0\GR_PZ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Банни хоп Егоров\source\repos\GR_PZ2\GR_PZ2\obj\Debug\net6.0\GR_PZ2.AssemblyInfoInputs.cache
+C:\Users\Банни хоп Егоров\source\repos\GR_PZ2\GR_PZ2\obj\Debug\net6.0\GR_PZ2.AssemblyInfo.cs
+C:\Users\Банни хоп Егоров\source\repos\GR_PZ2\GR_PZ2\obj\Debug\net6.0\GR_PZ2.csproj.CoreCompileInputs.cache
+C:\Users\Банни хоп Егоров\source\repos\GR_PZ2\GR_PZ2\obj\Debug\net6.0\GR_PZ2.dll
+C:\Users\Банни хоп Егоров\source\repos\GR_PZ2\GR_PZ2\obj\Debug\net6.0\refint\GR_PZ2.dll
+C:\Users\Банни хоп Егоров\source\repos\GR_PZ2\GR_PZ2\obj\Debug\net6.0\GR_PZ2.pdb
+C:\Users\Банни хоп Егоров\source\repos\GR_PZ2\GR_PZ2\obj\Debug\net6.0\GR_PZ2.genruntimeconfig.cache
+C:\Users\Банни хоп Егоров\source\repos\GR_PZ2\GR_PZ2\obj\Debug\net6.0\ref\GR_PZ2.dll
